@@ -12,4 +12,4 @@ How to Use
 3. go into the directory
 4. Open terminal -> Run <code> python3 main.py</code>
 
-<img src="./src/windows.jpg">
+<img src="https://github.com/Sahildholpuria/GetWebSource/blob/main/src/windows.JPG">
